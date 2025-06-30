@@ -93,7 +93,7 @@ Si ya tienes certificados, cópialos en src/certs/:
 
 Puedes interactuar manualmente con el servidor TLS:
 
-Previamente cree dentro de src los siguientes archivos:
+Previamente cree dentro de src los siguientes carpetas:
 
 -downloads
 -files
