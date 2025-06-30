@@ -30,18 +30,17 @@ Toda la comunicación se realiza de forma cifrada usando certificados TLS.
 ---
 
 ## 📁 Estructura de Carpetas
-
 FTSAPP/
 ├── node_modules/
-├── public/            # Frontend web
+├── public/               # Frontend web
 │   ├── index.html
 │   ├── main.js
 │   └── style.css
-├── src/               # Código fuente backend
-│   ├── certs/         # Certificados TLS
-│   ├── downloads/     # Descargas del cliente
-│   ├── files/         # Archivos en el servidor TLS
-│   ├── uploads/       # Subidas temporales
+├── src/                  # Código fuente backend
+│   ├── certs/            # Certificados TLS
+│   ├── downloads/        # Descargas del cliente
+│   ├── files/            # Archivos en el servidor TLS
+│   ├── uploads/          # Subidas temporales
 │   ├── secure-client.js
 │   ├── secure-server.js
 │   ├── tls-client.js
@@ -50,7 +49,6 @@ FTSAPP/
 ├── package-lock.json
 └── README.txt
 
----
 
 ## 🚀 Pasos de Ejecución
 
