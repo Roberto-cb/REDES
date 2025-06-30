@@ -95,7 +95,7 @@ Puedes interactuar manualmente con el servidor TLS:
 
 Previamente cree dentro de src los siguientes archivos:
 
--dowloads
+-downloads
 -files
 -uploads
 
