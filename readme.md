@@ -93,6 +93,12 @@ Si ya tienes certificados, cópialos en src/certs/:
 
 Puedes interactuar manualmente con el servidor TLS:
 
+Previamente cree dentro de src los siguientes archivos:
+
+-dowloads
+-files
+-uploads
+
 En una consola ejecuta lo siguiente:
 node src/secure-server.js
 La consola devulve lo siguiente: 
